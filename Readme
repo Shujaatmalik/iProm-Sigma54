@@ -1,0 +1,7 @@
+#iProm-Sigma54
+iProm-Sigma54: a CNN base prediction tool for σ54 Promoters
+A convolutional neural network (CNN)-based tool, for application in the prediction of sigma 54 promotors 
+This CNN-based tool uses a Onehot encoding scheme for promoter classification.
+#How to Use
+Download PcPromoter.py and Model weight files. Put all files in same folder
+  
